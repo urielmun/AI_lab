@@ -1,6 +1,6 @@
 # AI_lab
-Hyeong-Yeong Park 2025199007
-2025-2 Artificial intelligence
+- Hyeong-Yeong Park 2025199007
+- 2025-2 Artificial intelligence
 
 ## Development Environment
 
