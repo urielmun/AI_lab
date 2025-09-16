@@ -1,16 +1,16 @@
 # AI_lab
-- Hyeong-Yeong Park 2025199007
+- Seoyoung Moon 2022042011
 - 2025-2 Artificial intelligence
 
-## Development Environment
+## Development Environment 1
 
 ### Hardware
-- **GPU**: NVIDIA GeForce RTX 3060
-- **CUDA Support**: Available (1 device)
+- **GPU**: NVIDIA GeForce RTX 3090 Ti
+- **CUDA Support**: Available (4 device)
 
 ### Software Stack
-- **Python**: 3.10.0
-- **PyTorch**: 2.8.0+cu126 (CUDA-enabled)
+- **Python**: 3.10.8 
+- **PyTorch**: 2.6.0+cu118
 - **Jupyter Notebook**: Configured and operational
 
 ### Environment Status
